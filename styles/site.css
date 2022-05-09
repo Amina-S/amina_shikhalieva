@@ -44,10 +44,6 @@ header {
   
 }
 
-header .title {
-  padding: 10px;
-}
-
 nav {
   text-align: center;
   font-size: x-large;
@@ -101,7 +97,6 @@ body {
 .swiper-container-wrapper--timeline .swiper-slide {
   display: block;
   text-align: center;
-  vertical-align: middle;
   background: rgba(211, 211, 211, 0.5);
   min-height: 100px;
   align-items: center;
