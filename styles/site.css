@@ -1,6 +1,7 @@
 .profile_pic{
-  height: 300px;
+  height: 350px;
   float: right;
+  padding-left: 1%;
 }
 
 .timeline{
@@ -65,6 +66,7 @@ nav li {
 footer {
   /* padding: 10px 10px; */
   background: rgba(211, 211, 211, 0.5);
+  font-size: larger;
   position: fixed;
   left: 0;
   bottom: 0;
